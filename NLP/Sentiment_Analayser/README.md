@@ -1,6 +1,6 @@
-# Sentiment Analysis with Transformers
+# Sentiment Analysis with the help of Transformers
 
-This project uses a pre-trained transformer model from the Hugging Face library to analyze the sentiment of user-provided sentences. The sentiment analysis pipeline determines whether the sentiment of the input text is positive or negative and provides a confidence score.
+This project utilizd a pre-trained transformer model from the Hugging Face library to assess the sentiment of sentences provided by users. The sentiment analysis pipeline evaluates whether the sentiment of the input text is positive or negative and provides a confidence score for its assessment.
 
 ## Features
 
