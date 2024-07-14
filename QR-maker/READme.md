@@ -3,5 +3,5 @@ Just made this to try out the qrcode library extended with pillow.
 
 Check it out for yourself...
 
-![Sora](QR-maker/custom_qr_code.png)
+![Sora](custom_qr_code.png)
 
